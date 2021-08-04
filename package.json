@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "ansi-styles": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "chrome-launcher": "^0.13.4",
+    "chrome-remote-interface": "^0.28.2",
+    "chromedriver": "^87.0.4",
+    "close": "0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "loader": "^2.1.1",
+    "node-fetch": "^2.6.1",
+    "node-serialize": "0.0.4",
+    "parse": "^2.19.0",
+    "post": "0.0.1",
+    "puppeteer": "^5.2.1",
+    "puppeteer-core": "^5.5.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "system": "^2.0.1",
+    "timer": "^1.0.1",
+    "timers": "^0.1.1",
+    "tiny-puppeteer": "^1.6.0",
+    "user-agents": "^1.0.608",
+    "vee-validate": "^3.4.5",
+    "vue": "^2.6.12",
+    "vue-suggestions": "^1.4.0",
+    "watcher": "^1.0.0"
+  }
+}

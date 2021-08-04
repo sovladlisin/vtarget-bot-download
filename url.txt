@@ -1,0 +1,1 @@
+[{"url_download":"https://www.shutterstock.com/ru/search/girl?image_type=photo","login":"asistant@faqpromo.online","password":"Polop12345"},{"url_download":"https://www.shutterstock.com/ru/image-photo/stylish-bearded-man-posing-on-wagon-274415957","login":"xopromo@mail.ru","password":"xopromo77"}]
